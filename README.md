@@ -3,7 +3,7 @@
 ## 环境
    1. python3.5/3.6
    2. 依赖项安装：pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple 
-   3. 有GPU环境的可修改安装requirements.txt对应版本的tensorflow-gpu
+   3. 有GPU环境的可修改安装requirements.txt对应版本的tensorflow-gpu，config.py文件中控制GPU的开关
 ## 模型架构
     YOLOv3 + CRNN + CTC
    
@@ -13,3 +13,6 @@
 ## 服务启动
    1. python3 app.py
    2. 端口可自行修改
+## 测试demo
+   1.增值税电子普票测试结果
+![Image text](https://github.com/guanshuicheng/invoice/blob/master/test-invoice/%E7%94%B5%E5%AD%90%E5%8F%91%E7%A5%A8-test.png)
