@@ -3,4 +3,6 @@
 ## 环境
    1. python3.5/3.6
    2. 依赖项安装：pip install requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple 
-
+   3. 有GPU环境的可安装requirements.txt对应版本的tensorflow
+## 模型
+   
