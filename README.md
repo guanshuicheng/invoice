@@ -4,5 +4,9 @@
    1. python3.5/3.6
    2. 依赖项安装：pip install requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple 
    3. 有GPU环境的可安装requirements.txt对应版本的tensorflow
-## 模型
+## 模型架构
+    YOLOv3
    
+## 模型
+   1. 模型下载地址：链接：https://pan.baidu.com/s/1glMeeqKJ6I1LVPTby9UkPA ，提取码：dqce 
+   2. 将下载完毕的模型文件夹models放置于项目根目录下
