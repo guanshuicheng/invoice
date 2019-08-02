@@ -5,7 +5,7 @@
    2. 依赖项安装：pip install requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple 
    3. 有GPU环境的可安装requirements.txt对应版本的tensorflow
 ## 模型架构
-    YOLOv3
+    YOLOv3 + CRNN + CTC
    
 ## 模型
    1. 模型下载地址：链接：https://pan.baidu.com/s/1glMeeqKJ6I1LVPTby9UkPA ，提取码：dqce 
