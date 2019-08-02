@@ -21,3 +21,5 @@
 ![Image text](https://github.com/guanshuicheng/invoice/blob/master/test-invoice/%E6%9C%BA%E6%89%93%E6%99%AE%E7%A5%A8-test.png)
    4. 增值税专用发票测试结果
 ![Image text](https://github.com/guanshuicheng/invoice/blob/master/test-invoice/%E6%9C%BA%E6%89%93%E4%B8%93%E7%A5%A8-test.png)
+## 参考
+chineseocr https://github.com/chineseocr/chineseocr
