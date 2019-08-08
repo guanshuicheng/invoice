@@ -8,7 +8,7 @@
     YOLOv3 + CRNN + CTC
    
 ## 模型
-   1. 模型下载地址：链接：https://pan.baidu.com/s/1glMeeqKJ6I1LVPTby9UkPA ，提取码：dqce 
+   1. 模型下载地址：链接：https://pan.baidu.com/s/1bjtd3ueiUj3rt16p2_YQ2w
    2. 将下载完毕的模型文件夹models放置于项目根目录下
 ## 服务启动
    1. python3 app.py
