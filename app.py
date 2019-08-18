@@ -56,6 +56,7 @@ def invoice_ocr():
     if not allowed_file(invoice_file_name):
         return build_api_result(102, "失败，文件格式问题", {},{},{})
     
+    os.mkdir("./test")
     upload_path = "test"
     whole_path = os.path.join(upload_path,invoice_file_name)
     file.save(whole_path)
