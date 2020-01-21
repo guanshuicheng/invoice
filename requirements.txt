@@ -34,8 +34,7 @@ SecretStorage
 six
 soupsieve
 tensorboard
-tensorflow==1.13.0
-tensorflow-estimator==1.13.0
+tensorflow==1.13.1
 termcolor
 torch
 urllib3
