@@ -36,5 +36,4 @@
 chineseocr https://github.com/chineseocr/chineseocr
 
 ## 合作事宜请联系
-![Image text](https://github.com/guanshuicheng/invoice/blob/master/test-invoice/id.jpg)
 微信：w1003617636
