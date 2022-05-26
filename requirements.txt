@@ -34,7 +34,7 @@ SecretStorage
 six
 soupsieve
 tensorboard
-tensorflow==2.5.1
+tensorflow==2.7.2
 termcolor
 torch
 urllib3
