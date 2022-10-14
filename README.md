@@ -32,5 +32,8 @@
 
 后期逐步将模型迁移至TF-serving...
 
-## 参考
-chineseocr https://github.com/chineseocr/chineseocr
+## 说明
+- 该项目基于chineseocr https://github.com/chineseocr/chineseocr
+- 商业版本（多模态）合作请联系微信：w1003617636
+- 支持其他的卡证及票据类的高精度识别
+- 支持行业内的数据相关合作，欢迎联系
