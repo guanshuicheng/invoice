@@ -1,4 +1,4 @@
-## 说明
+# 说明
 - 该项目基于chineseocr https://github.com/chineseocr/chineseocr
 - 商业版本（多模态）合作请联系微信：w1003617636
 - 支持其他的卡证及票据类的高精度识别
